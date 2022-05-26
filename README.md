@@ -14,7 +14,7 @@ Hi! My name is Erik and this is my personal webpage. I will try to keep it updat
 
 This webpage was created and is solely maintained by me.
 
-Original design by [Freelancer](https://startbootstrap.com/theme/freelancer), created and hosted by [Bootstrap](https://startbootstrap.com/).
+Original design by [Freelancer](https://startbootstrap.com/theme/freelancer), an [MIT](https://choosealicense.com/licenses/mit/) licensed [Start Bootstrap](https://startbootstrap.com/) them.
 
 ## License
 
