@@ -1,14 +1,16 @@
 # Welcome to my website
 
-Hi! My name is Erik and this is my personal webpage. I will try to keep it updated with relevant information to my work and contact info.
+Hi! My name is Erik and this is my personal webpage. I will try to keep it updated with information relevant to my work and contact info.
 
-## Tasklist
+## Features
 
-- [ ] Portfolio
-- [ ] Contact Info
-- [x] Masthead Picture
-- [x] Licensing & Credits
-- [ ] Update Social Links
+- Fully Modular & Customizable
+- Clean Visuals
+- Responsive Web Design
+- Free Custom Profile Picture provided by [getavataaars](https://getavataaars.com/)
+- Free Custom Icons provided by [fontawesome](https://fontawesome.com/)
+- Free hosting through [Github Pages](https://pages.github.com/)
+- Easy to Update and Maintain
 
 ## Creator
 
