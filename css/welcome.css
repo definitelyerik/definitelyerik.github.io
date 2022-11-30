@@ -25,14 +25,14 @@ body {
 }
 
 .side .title {
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   font-size: 8vw;
   margin: 0px 10vw;
   width: 80vw;
 }
 
 .side .fancy {
-  font-family: "Lobster", cursive;
+  font-family: "Dancing Script", cursive;
   font-size: 1.3em;
   line-height: 0.8em;
 }
@@ -109,6 +109,6 @@ body {
 
 .meta-link > span {
   color: white;
-  font-family: "Rubik", sans-serif;
+  font-family: "Dosis", sans-serif;
   transition: color 600ms;
 }

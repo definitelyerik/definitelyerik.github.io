@@ -7,16 +7,10 @@ Hi! My name is Erik and this is my personal webpage. I will try to keep it updat
 - Fully Modular & Customizable
 - Clean Visuals
 - Responsive Web Design
-- Free Custom Profile Picture provided by [getavataaars](https://getavataaars.com/)
+- Custom Profile Picture
 - Free Custom Icons provided by [fontawesome](https://fontawesome.com/)
 - Free hosting through [Github Pages](https://pages.github.com/)
 - Easy to Update and Maintain
-
-## Creator
-
-This webpage was created and is solely maintained by me.
-
-Original design by [Freelancer](https://startbootstrap.com/theme/freelancer), an [MIT](https://choosealicense.com/licenses/mit/) licensed [Start Bootstrap](https://startbootstrap.com/) them.
 
 ## License
 
