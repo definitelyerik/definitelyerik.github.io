@@ -1,0 +1,88 @@
+/* Brand Button Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Only include brand-specific button styling here */
+.button,button {
+  color:var(--button-text,#000000);
+  background-color:var(--button-background,transparent);
+	border:var(--button-border,none);
+	transition:filter 0.2s ease,transform 0.2s ease;
+}
+
+/* Global Button Hover Effect
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button:hover,button:hover {
+	filter:brightness(90%);
+	transform:translateY(-1px);
+}
+
+/* Icons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.icon {
+	filter:var(--icon-filter,none);
+}
+
+/* Button-Specific Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Default */
+.button.button-default {
+	--button-text:#ffffff;
+	--button-background:#2457F5;
+	--button-border:1px solid #ffffff;
+}
+
+/* Bluesky */
+.button-bluesky {
+	--button-text:#FFFFFF;
+	--button-background:#1185FE;
+	--button-border:1px solid #FFFFFF;
+}
+
+/* Email */
+.button-email {
+	--button-text:#ffffff;
+	--button-background:#008080;
+	--button-border:1px solid #ffffff;
+}
+
+/* GitHub */
+.button-github {
+	--button-text:#ffffff;
+	--button-background:#24292e;
+	--button-border:1px solid #FFFFFF;
+}
+
+/* Mastodon */
+.button-mastodon {
+	--button-text:#ffffff;
+	--button-background:#563ACC;
+	--button-border:1px solid #FFFFFF;
+}
+
+/* Obsidian */
+.button.button-obsidian {
+	--button-text:#ffffff;
+	--button-background:#262626;
+	--button-border:1px solid #ffffff;
+}
+
+/* Spotify */
+.button-spotify {
+	--button-text:#ffffff;
+	--button-background:#1db954;
+	--button-border:1px solid #FFFFFF;
+}
+
+/* Steam */
+.button-steam {
+	--button-text:#ffffff;
+	--button-background:#072a57;
+	--button-border:1px solid #FFFFFF;
+}
+
+/* Telegram */
+.button-telegram {
+	--button-text:#ffffff;
+	--button-background:#157AB0;
+	--button-border:1px solid #FFFFFF;
+}
