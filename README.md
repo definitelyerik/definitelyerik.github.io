@@ -1,7 +1,3 @@
-# Potential Guide
-
-Work in progress.
-
 ## Credits
 
 Webpage created and maintained by yours truly.
