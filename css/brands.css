@@ -31,6 +31,13 @@
 	--button-border:1px solid #ffffff;
 }
 
+/* Apple Music */
+.button-apple-music {
+	--button-text:#ffffff;
+	--button-background:#ff4e6b;
+	--button-border:1px solid #FFFFFF;
+}
+
 /* Bluesky */
 .button-bluesky {
 	--button-text:#FFFFFF;
